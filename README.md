@@ -6,7 +6,7 @@ https://docs.google.com/document/d/1MHa6SFKeGSAJ7RPo_LGtdvtYWxoXaHv_Xx6Cs-CtUIg/
 
 # Mockups
 
-Se encuentran en la carpeta con el mismo nombre "mockups/Mockups CamiApp.pdf"
+Se encuentran en la carpeta con el mismo nombre mockups/Mockups CamiApp.pdf
 
 Link por las dudas: https://app.moqups.com/4RzNAQm3208ouWajk9b176jhxoylHjHm/edit/page/a5c5c6c94
 
