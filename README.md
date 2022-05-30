@@ -1,4 +1,4 @@
-# PP3MB ![Logo](https://github.com/MarBol86/PP3MB/blob/main/mockups/Logo-grey-ch.png)
+# PP3MB       ![Logo](https://github.com/MarBol86/PP3MB/blob/main/mockups/Logo-grey-ch.png)
 PP3 - IFTS N°18 - Marilina Bolatii 
 
 # Anteproyecto
