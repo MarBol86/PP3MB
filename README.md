@@ -1,5 +1,5 @@
-# PP3MB
-PP3 - IFTS N°18 - Marilina Bolatii ![Logo](https://github.com/MarBol86/PP3MB/blob/main/mockups/Logo-grey-PhotoRoom.png)
+# PP3MB ![Logo](https://github.com/MarBol86/PP3MB/blob/main/mockups/Logo-grey-ch.png)
+PP3 - IFTS N°18 - Marilina Bolatii 
 
 # Anteproyecto
 Click [Aqui](https://docs.google.com/document/d/1MHa6SFKeGSAJ7RPo_LGtdvtYWxoXaHv_Xx6Cs-CtUIg/edit#)
